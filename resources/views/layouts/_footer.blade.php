@@ -5,6 +5,8 @@
   </a>
 
   <div class="float-right">
-    <a href="{{ route('about') }}" >关于</a>
+    <a href="https://cdn.learnku.com/uploads/images/201812/14/1/jn0GCr52Zm.png!large" target=_blank>
+      项目功能页简介
+    </a>
   </div>
 </footer>
